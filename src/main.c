@@ -81,7 +81,7 @@ int main(void)
         DrawText("DVD", (int)x + 32, (int)y + 5, 46, logoColor);
         DrawText("VIDEO", (int)x + 58, (int)y + 52, 15, logoColor);
 
-        DrawText("DVD SCREENSAVER", 20, 18, 18, DARKGRAY);
+        
         DrawText("Close the window or press ESC to exit", 20,
                  screenHeight - 32, 16, DARKGRAY);
 
